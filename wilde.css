@@ -1,0 +1,29 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+
+.stage_directions{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color:rgb(160, 209, 240);
+    color: black;
+}
+
+.name{
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: black;
+}
+p:hover{
+    background-color: lightcoral;
+    color: rgb(91, 158, 104);
+}
+
+.LORD_GORING{
+    color: rgb(120,75,225)
+}
+.SIR_ROBERT_CHILTERN{
+    color: rgb(47,165,197)
+}
