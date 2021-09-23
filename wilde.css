@@ -16,10 +16,11 @@
     font-size: 25px;
     color: rgb(161, 230, 191);
 }
-p:hover{
-    background-color: lightcoral;
-    color: rgb(91, 158, 104);
+.stage-direction:hover {
+    background-color: honeydew;
+    color:maroon;
 }
+
 
 .LORD_GORING{
     color: rgb(120,75,225)
@@ -27,6 +28,23 @@ p:hover{
 .SIR_ROBERT_CHILTERN{
     color: rgb(47,165,197)
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
