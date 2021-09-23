@@ -29,36 +29,15 @@
     color: rgb(47,165,197)
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  td, th {
-    border: 1px solid #ee8181;
-    text-align: left;
-    padding: 8px;
-  }
-  
+table,th,td{
+    border: 5px solid navy;
+    border-color:rgb(137, 59, 59);
+    text-align: center;
+    padding: 13px;
+    margin: 25px 50px 50px 100px;
+}
   tr:nth-child(even) {
-    background-color: #abe4d0;
+    background-color: #16e69d;
   }
 
   h6:hover{
@@ -68,21 +47,14 @@ table {
     border-color: rgb(228, 206, 84);
 }
 
-ul.navbar-horizontal 
-{/* remove these */
-    list-style-type: none;margin: 0;
-    padding: 0;
+
+
+.navbar {
+    margin: auto;
+    width: 50%;
+    background-color: rgb(136, 140, 142);
+    border: 3px solid rgb(34, 79, 57);
+    padding: 10px;
+    display: block;
+    text-align: center;
 }
-ul.navbar-horizontal li
- {
-     float:left; 
-     /* line up horizontally */
-     color:#000;
-     background-color:rgb(133, 245, 133)
-    }ul.navbar-horizontal a 
-    {display:block;padding:8px
-        /* on hover change the link color*/
-        ul.navbar-horizontal a:hover 
-        {  background-color: #555;
-            color:white;
-        }
